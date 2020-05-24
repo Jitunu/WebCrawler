@@ -6,7 +6,7 @@ public class TestGitConflict {
 		// TODO Auto-generated method stub
 		String s = "local change hello"; 
 		String st = "Remote change for conflit";
-
+		String a = "Test";
 	}
 
 }
